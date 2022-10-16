@@ -4,7 +4,7 @@
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
-### Fourth Month / Sprint(July 06/09 - 30/09) 
+### Fifth Month / Sprint(Oct 17/10 - 30/10) 
 * Online courses, challenges and creation of my own projects.
 
 <!-- 
@@ -31,20 +31,8 @@
 
 
  ## Project + Result 
-* Basic JavaScript Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/tree/master/basic_javaScript)
-* Basic JavaScript learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
-* ES6/ES2015 Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/tree/master/ES6)
-* ES6/ES2015 learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedES6-ES2015.md)
-* Regex Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/tree/master/js_regular_expression)
-* Regex learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedRegularExpressions.md)
-* Debugging Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/tree/master/debugging)
-* Debugging learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4-12Mths-WebDevStudy-2022-2023/blob/master/learnedDebugging.md)
-* Basic data Structure Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/tree/master/basic_data_structure)
-* Basic Data Structure learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/blob/master/learnedBasicDataStructure.md)
-* Basic Algorithm Scripting Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/tree/master/basic_algorithm_scripting)
-* Basic Algorithm Scripting learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/blob/master/learnedBasicAlgotiyhmScripting.md)
-* Object Oriented Programming Coding [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/tree/master/object_oriented_programming)
-* Object Oriented Programming learning [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023/blob/master/learnedObjectOrientedProgramming.md)
+* Basic JavaScript Coding [link]()
+
 
 ## Previous Projects
 * (1 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/1-12Mths-WebDevelopmentStudy-2022-2023)
@@ -57,6 +45,7 @@
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023) (CSS Transition - codeAcademy)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Sass_BEM_Responsive-3-12Mths-WebDevStudy-2022-2023) (SASS & BEM - coder coder)
 * (3 mth) & (4 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-responsive_web_design-3e4-12Mths-WebDevStudy-2022-2023) (freeCodeCamp (New) Responsive Web Design)
+* (4 mth) & (5 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/freeCodeCamp-JavaScript-algorithms-and-data-structures-4_5-12Mths-WebDevStudy-2022-2023) (freeCodeCamp - JavaScript Algorithms and Data Structures)
 
 
 <!-- 
